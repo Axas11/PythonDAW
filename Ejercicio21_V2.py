@@ -1,7 +1,7 @@
 via = (input("Elige el tipo de via: (Nacional o Autovia): "))
 vehiculo = (input("Elige el tipo de vehiculo: (Coche, Bus o Camion): "))
             
-velocidadMax = -1
+velocidadMax = 0
 
 if via == "Autovia":
     if vehiculo == "Coche":

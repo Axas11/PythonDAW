@@ -19,7 +19,7 @@ def calcular_precio(dia, tipo, festivo, cupon):
 
     if festivo == si:
         precio_base *= 1.1 
-    else2
+    else:
     if cupon:
         precio_base *= 0.9  
 

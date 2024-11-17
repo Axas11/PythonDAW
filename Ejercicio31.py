@@ -1,5 +1,5 @@
 while True:
-    print("Elige la opcion por numeros")
+    print("Elige la opcion por numeros: ")
     print("1.Suma")
     print("2.Resta")
     print("3.Multiplicacion")

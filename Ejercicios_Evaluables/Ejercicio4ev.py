@@ -1,6 +1,4 @@
 def convertir_unidades_masa(cantidad, udini, udfin):
-
-
     cantconv = 0
 
     if udini == "gramos" and udfin == "kilos":

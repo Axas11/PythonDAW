@@ -11,6 +11,7 @@ while suma < 100:
         if num < menor:
             menor = num
     
+    
     suma += num
     nNumeros += 1
 media = nNumeros/suma

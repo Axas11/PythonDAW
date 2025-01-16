@@ -1,6 +1,6 @@
 def calcular_precio(dia, tipo, festivo, cupon):
     precio_base = 0
-
+    
     if dia == "lunes" or dia == "martes" or dia == "miercoles" or dia == "jueves":
         if tipo == "individual":
             precio_base = 30
